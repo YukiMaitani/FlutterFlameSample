@@ -1,7 +1,7 @@
 import 'package:flame/game.dart';
 import 'package:flutter/material.dart';
 
-import 'block_breaker.dart';
+import 'game/block_breaker.dart';
 
 void main() {
   final game = BlockBreaker();
